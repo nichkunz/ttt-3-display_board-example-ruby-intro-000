@@ -5,9 +5,9 @@ def display_board
   vert = "|"
   line = cell + vert + cell + vert + cell
   print line
-  print hiroz_divider
+  print horiz_divider
   print line
-  print hiroz_divider
+  print horiz_divider
   print line
   print "\n"
 end
