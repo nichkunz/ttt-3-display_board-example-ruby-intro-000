@@ -4,4 +4,7 @@ def display_board
   line = "   |   |   \n"
   print line
   print hiroz_divider
+  print line
+  print hiroz_divider
+  print line
 end
