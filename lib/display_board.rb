@@ -9,5 +9,5 @@ def display_board
   print line
   print hiroz_divider
   print line
-  print "\n""
+  print "\n"
 end
